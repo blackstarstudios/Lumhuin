@@ -1,5 +1,7 @@
 # Home
 
+Welcome to the world of Overlume!
+
 1. [Book of Stars](/lumhuin/religion/home.md)
 1. [Lumverse](/lumhuin/lumverse/home.md)
 1. [Magic](/lumhuin/magic/home.md)
