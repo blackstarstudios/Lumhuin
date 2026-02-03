@@ -1,43 +1,45 @@
 # Home
 
-<p style="text-align: center;">Religion</p>
-<p style="text-align: center;">Lumverse</p>
-<p style="text-align: center;">Magic</p>
-<p style="text-align: center;">Atlas</p>
-<p style="text-align: center;">Climate</p>
-<p style="text-align: center;">Biomes</p>
-<p style="text-align: center;">Ores</p>
-<p style="text-align: center;">Plants</p>
-<p style="text-align: center;">Monsters</p>
-<p style="text-align: center;">Angels</p>
-<p style="text-align: center;">Demons</p>
-<p style="text-align: center;">Dragons</p>
-<p style="text-align: center;">Spirits</p>
-<p style="text-align: center;">People</p>
-<p style="text-align: center;">Arts</p>
-<p style="text-align: center;">Calendar</p>
-<p style="text-align: center;">History</p>
-<p style="text-align: center;">War</p>
-<p style="text-align: center;">Myths</p>
-<p style="text-align: center;">Heroes</p>
-<p style="text-align: center;">Villians</p>
-<p style="text-align: center;">Countries</p>
-<p style="text-align: center;">Law</p>
-<p style="text-align: center;">Organizations</p>
-<p style="text-align: center;">Guilds</p>
-<p style="text-align: center;">Economy</p>
-<p style="text-align: center;">Education</p>
-<p style="text-align: center;">Cookbook</p>
-<p style="text-align: center;">Classes</p>
-<p style="text-align: center;">Entertainment</p>
-<p style="text-align: center;">Culture</p>
-<p style="text-align: center;">Armor</p>
-<p style="text-align: center;">Weapons</p>
-<p style="text-align: center;">Alchemy</p>
-<p style="text-align: center;">Poisons</p>
-<p style="text-align: center;">Enchanting</p>
-<p style="text-align: center;">Augmenting</p>
-<p style="text-align: center;">Technology</p>
-<p style="text-align: center;">Dungeons</p>
-<p style="text-align: center;">Bosses</p>
-<p style="text-align: center;">Artifacts</p>
+1. [Book of Stars](/lumhuin/religion/home.md)
+1. [Lumverse](/lumhuin/lumverse/home.md)
+1. [Magic](/lumhuin/magic/home.md)
+1. [Atlas](/lumhuin/atlas/home.md)
+1. [Biomes](/lumhuin/biomes/home.md)
+1. [Ores](/lumhuin/ores/home.md)
+1. [Plants](/lumhuin/plants/home.md)
+1. [Beastiary](/lumhuin/monsters/home.md)
+1. [Angels](/lumhuin/angels/home.md)
+1. [Demons](/lumhuin/demons/home.md)
+1. [Curses](/lumhuin/curses/home.md)
+1. [Dragons](/lumhuin/dragons/home.md)
+1. [Spirits](/lumhuin/spirits/home.md)
+1. [People](/lumhuin/people/home.md)
+1. [Arts](/lumhuin/arts/home.md)
+1. [Swordfighting](/lumhuin/swordfighting/home.md)
+1. [Calendar](/lumhuin/calendar/home.md)
+1. [History](/lumhuin/history/home.md)
+1. [War](/lumhuin/war/home.md)
+1. [Myths](/lumhuin/myths/home.md)
+1. [Heroes](/lumhuin/heroes/home.md)
+1. [Villians](/lumhuin/villians/home.md)
+1. [Countries](/lumhuin/countries/home.md)
+1. [Law](/lumhuin/law/home.md)
+1. [Organizations](/lumhuin/organizations/home.md)
+1. [Guilds](/lumhuin/guilds/home.md)
+1. [Economy](/lumhuin/economy/home.md)
+1. [Education](/lumhuin/education/home.md)
+1. [Miss May's Cuisiner](/lumhuin/cookbook/home.md)
+1. [Classes](/lumhuin/classes/home.md)
+1. [Entertainment](/lumhuin/entertainment/home.md)
+1. [Culture](/lumhuin/culture/home.md)
+1. [Armor](/lumhuin/armor/home.md)
+1. [Weapons](/lumhuin/weapons/home.md)
+1. [Alchemy](/lumhuin/alchemy/home.md)
+1. [Poisons](/lumhuin/poisons/home.md)
+1. [Enchanting](lumhuin/enchanting/home.md)
+1. [Augmenting](/lumhuin/augmenting/home.md)
+1. [Technology](/lumhuin/technology/home.md)
+1. [Dungeons](/lumhuin/dungeons/home.md)
+1. [Bosses](/lumhuin/bosses/home.md)
+1. [Artifacts](/lumhuin/artifacts/home.md)
+1. [Monster Hunting](/lumhuin/hunting/home.md)
