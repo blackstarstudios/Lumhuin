@@ -1,6 +1,6 @@
-# Icradescent
+# The Lord's Swordplay
 
-Strategic and magical materials that matter to crafting and politics
+Weapon fighting
 
 1. [Ch1](/lumhuin/religion/text)
 1. [Ch2](/lumhuin/religion/text)

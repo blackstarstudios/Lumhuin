@@ -1,6 +1,6 @@
-# Icradescent
+# Vow of Curses
 
-Strategic and magical materials that matter to crafting and politics
+Curses
 
 1. [Ch1](/lumhuin/religion/text)
 1. [Ch2](/lumhuin/religion/text)
