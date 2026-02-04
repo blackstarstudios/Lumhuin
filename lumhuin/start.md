@@ -33,7 +33,6 @@ Welcome to the Lumhuin, a book collection that holds the world of Overlume!
 1. [Miss May's Cuisiner](/lumhuin/cookbook/home.md)
 1. [Archetyping](/lumhuin/classes/home.md)
 1. [Amusementland](/lumhuin/entertainment/home.md)
-1. [Culturist](/lumhuin/culture/home.md)
 1. [Yord's Armaments](/lumhuin/armory/home.md)
 1. [Alchemic Pages](/lumhuin/alchemy/home.md)
 1. [Baal's 81](/lumhuin/poisons/home.md)
